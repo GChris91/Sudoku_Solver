@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1493728992 source:f:\chris\desktop\tp3_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"SudokuFile.h"
+	"SudokuSolver.h"
+
+1493188268 source:e:\tp3_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"SudokuFile.h"
+	"SudokuSolver.h"
+
+1491979101 source:e:\tp3_sudoku\sudoku.c
+	"Sudoku.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1491978583 e:\tp3_sudoku\sudoku.h
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493182929 source:e:\tp3_sudoku\sudokufile.c
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1492584070 e:\tp3_sudoku\sudokufile.h
+
+1492584687 source:d:\tp3_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	"SudokuFile.h"
+	"SudokuSolver.h"
+
+1492584070 d:\tp3_sudoku\sudokufile.h
+
+1492584182 d:\tp3_sudoku\sudoku.h
+	"SudokuFile.h"
+	<stdbool.h>
+
+1492584182 source:d:\tp3_sudoku\sudoku.c
+	"Sudoku.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1492584053 source:d:\tp3_sudoku\sudokufile.c
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1492584182 d:\tp3_sudoku\sudokusolver.h
+	"SudokuFile.h"
+	<stdbool.h>
+
+1492584489 source:d:\tp3_sudoku\sudokusolver.c
+	"SudokuSolver.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493188268 source:k:\tp3_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"SudokuFile.h"
+	"SudokuSolver.h"
+
+1492584070 k:\tp3_sudoku\sudokufile.h
+
+1492584182 k:\tp3_sudoku\sudokusolver.h
+	"SudokuFile.h"
+	<stdbool.h>
+
+1493182929 source:k:\tp3_sudoku\sudokufile.c
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493189705 source:k:\tp3_sudoku\sudokusolver.c
+	"SudokuSolver.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1492584182 e:\tp3_sudoku\sudokusolver.h
+	"SudokuFile.h"
+	<stdbool.h>
+
+1493189705 source:e:\tp3_sudoku\sudokusolver.c
+	"SudokuSolver.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493715176 f:\chris\desktop\tp3_sudoku\sudokufile.h
+
+1493712459 f:\chris\desktop\tp3_sudoku\sudokusolver.h
+	"SudokuFile.h"
+	<stdbool.h>
+
+1493728330 source:f:\chris\desktop\tp3_sudoku\sudokufile.c
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493728273 source:f:\chris\desktop\tp3_sudoku\sudokusolver.c
+	"SudokuSolver.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493715176 source:f:\chris\my docs\unc\2.1\progav\tp3\tp3_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	"SudokuFile.h"
+	"SudokuSolver.h"
+
+1493715176 f:\chris\my docs\unc\2.1\progav\tp3\tp3_sudoku\sudokufile.h
+
+1493712459 f:\chris\my docs\unc\2.1\progav\tp3\tp3_sudoku\sudokusolver.h
+	"SudokuFile.h"
+	<stdbool.h>
+
+1493715176 source:f:\chris\my docs\unc\2.1\progav\tp3\tp3_sudoku\sudokufile.c
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1493715176 source:f:\chris\my docs\unc\2.1\progav\tp3\tp3_sudoku\sudokusolver.c
+	"SudokuSolver.h"
+	"SudokuFile.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
